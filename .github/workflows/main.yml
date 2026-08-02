@@ -1,0 +1,36 @@
+name: Automated Willow JSON Updater
+on:
+  schedule:
+    - cron: '*/7 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Configure Git User
+        run: |
+          git config --global user.name "sportlive18"
+          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
+      - name: Sync and Update Log
+        run: |
+          export TZ="Asia/Kolkata"
+          git pull origin main --rebase
+          curl -sS -o willow.json "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.json"
+          curl -sS -L -o willow.m3u "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+          echo "🚀 Willow Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> willow.txt
+      - name: Commit and Push
+        run: |
+          export TZ="Asia/Kolkata"
+          git add willow.json willow.m3u willow.txt
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Willow Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git push origin main
