@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 PM 07-08-2026
+#LAST_UPDATE:10:02 PM 07-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -18,19 +18,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50d7c2fe1b774066ff219b377fe7573:b9062e22eb7e3b6f393d7c558b5ade3f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faytpc7cfl/out/v1/0ebd7ee78eb54076a7f1450458ba98a3/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faytpc7cfl/out/v1/0ebd7ee78eb54076a7f1450458ba98a3/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H844TZLR" tvg-name="The Hundred Womens Competition 2026 - 24th Match - Birmingham Phoenix Women vs Sunrisers Leeds Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7743e798-0af8-48d6-a035-59dca982a7f1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 24th Match - Birmingham Phoenix Women vs Sunrisers Leeds Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6d89c6e573fcb5c140e55e9f3427576:b480320ca9fdf92dd7fef64853fe2b77
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/btm2t3w9rs/out/v1/bbc9fa0b0ba7411d861faf03f0ece56e/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/btm2t3w9rs/out/v1/bbc9fa0b0ba7411d861faf03f0ece56e/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCH4XHSW" tvg-name="Global e-Cricket Premier League 2026 - 47th Match - Pune Stallions vs Hyderabad Rhinos" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93bfe4aa-7a57-4111-bacc-2ebcd8311066/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 47th Match - Pune Stallions vs Hyderabad Rhinos
+#EXTINF:-1 tvg-id="B0HC7S8WHS" tvg-name="Global e-Cricket Premier League 2026 - 49th Match - Kolkata Hawks vs Bengaluru Badgers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33b43a2d-0a87-4ac3-a6c9-11857962e8e1/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 49th Match - Kolkata Hawks vs Bengaluru Badgers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4978ecfa90f928c02b80a4e6bf438393:f75591b21263e1d1aeb948994963c46c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uixziwq1b4/out/v1/779848dc9a444a089717b3679e784c58/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=651cf592134ac482f56f60806fc55cf2:274342b29cb08567b9a7d19797f3447e
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kqysfp4eat/out/v1/09df1375d33a48899dfb997d5b904184/cenc.mpd
 
