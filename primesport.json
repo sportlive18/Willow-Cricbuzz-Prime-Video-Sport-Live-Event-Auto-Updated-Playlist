@@ -1,2 +1,13 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+{
+  "HeaderInfo": {
+    "PlaylistName": "Prime Video Free Sports",
+    "LastUpdate": "08:02 PM 17-08-2026",
+    "Telegram": "https://t.me/livesportsplay",
+    "Owner": "Md Sohanur Rahman Hady"
+  },
+  "Stats": {
+    "LiveCount": 0,
+    "UpcomingCount": 0
+  },
+  "Matches": []
+}
