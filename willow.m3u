@@ -1,8 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 AM 25-08-2026
+#LAST_UPDATE:07:02 AM 25-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HFXJKQFN" tvg-name="Top End T20 Series 2026 - 13th Match - New Zealand A vs HH Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79238516-163d-4a1a-bf3b-c5014bb4884b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 13th Match - New Zealand A vs HH Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd
 
