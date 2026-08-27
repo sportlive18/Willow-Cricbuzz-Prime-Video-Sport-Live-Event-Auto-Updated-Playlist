@@ -1,31 +1,82 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 27-08-2026",
+    "LastUpdate": "09:02 AM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HFF9R5PF",
-      "title": "Qualifying 2nd Round",
-      "synopsis": "Qualifying 2nd Round",
+      "match_id": "B0HF28YT9G",
+      "title": "LD Alajuelense vs. Plaza Amador",
+      "synopsis": "LD Alajuelense vs. Plaza Amador",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.da9dadaa-1d10-4431-8295-dc2c7d372c30/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF9R5PF",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab41b1c2-8164-454c-a59c-7509648c0bf3/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF28YT9G",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0HCJ9JN9G",
+      "title": "Japan vs. Cuba",
+      "synopsis": "Japan vs. Cuba",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0a0a5a62-7b43-4601-8980-af609e69ec34/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCJ9JN9G",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HFGS4265",
+      "title": "HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+      "synopsis": "HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1235e8db-ee7d-4f47-a325-23d9be7625dc/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGS4265",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd"
+      },
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
+    },
+    {
+      "match_id": "B0HFGJGKTK",
+      "title": "Top End Series: NT Strike vs Victoria",
+      "synopsis": "Top End Series: NT Strike vs Victoria",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab773181-9966-4f11-909e-2c4f6eebe4de/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGJGKTK",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
       "match_id": "B0HFSDC5X9",
@@ -33,27 +84,13 @@
       "synopsis": "Aug 26 - PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a8bcfc4-7b91-42c8-abef-9c6f1e50aeb0/8/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a8bcfc4-7b91-42c8-abef-9c6f1e50aeb0/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFSDC5X9",
       "is_free": false,
       "stream_url": {
         "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqovCzBhpqjyozA2ZmYXN0bHkCeClzc2lkOjI0ZGNiMjE2LTVhNmEtNDk4Yy1hN2Q3LTg0YzVlZjFkNzg1MxkBOKEFoQJ4My9waHFkdWRzZWRpL291dC92MS8yZDUxNGE2MGRhMGI0ZTVhODlhNTY2YjhiMzRjYjc2ZVggguS7q4XSzBSHRnvy5x3sIIv7Ar0nvrTKQ9XFljkiuCY/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/phqdudsedi/out/v1/2d514a60da0b4e5a89a566b8b34cb76e/53705818-c578-4fbd-977c-dfdb931a2c34-cenc.mpd"
       },
       "drm_key": "56b92668deb4f4c57d133f43b8c7ce1e:353416e3ab1992afb9b6270d18f8da6c"
-    },
-    {
-      "match_id": "B0HFDZ57QC",
-      "title": "Aug 26 - PTT Boise",
-      "synopsis": "Aug 26 - PTT Boise",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9cadbb2-ce2f-4f59-bbfb-9640e36786f8/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFDZ57QC",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqovCzBhpqjyozA2ZmYXN0bHkCeClzc2lkOmNmMjVmNWIwLTA0YzYtNDk2Ni1iYTg5LTgwZWE4MzdhYjcxYRkBOKEFoQJ4My8zbnRtY3Bnc3JtL291dC92MS8zNGQyMzYwZDNjYWM0MjhkODA5MTA2MWQxNzg0YzI4NhkBPIFiVVNYIDCQRWAFdOr9yUS0wlSczj5BToBPbdjz08k7E7gzP8xi/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/3ntmcpgsrm/out/v1/34d2360d3cac428d8091061d1784c286/0cb0dcd8-7821-4799-801b-85900cc5f134-cenc.mpd"
-      },
-      "drm_key": "66ab149de6bea5d317922744d7cc47c3:609cc5613f7e2a9bfecb6e60bf20cb04"
     }
   ]
 }
