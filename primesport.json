@@ -1,68 +1,74 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 PM 27-08-2026",
+    "LastUpdate": "08:02 PM 27-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HF57GH41",
-      "title": "Southland v Hawke's Bay",
-      "synopsis": "Southland v Hawke's Bay",
+      "match_id": "B0HG4WWDP1",
+      "title": "LIVE: British Masters Day 1",
+      "synopsis": "LIVE: British Masters Day 1",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26a2054a-e4fe-4b38-997a-11a12cdf71ea/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF57GH41",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac0c2d5c-a60c-4e4f-a0e1-aef5f03bd9d4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4WWDP1",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
     },
     {
-      "match_id": "B0HC8B3M1M",
-      "title": "Leagues Cup El Resumen",
-      "synopsis": "Leagues Cup El Resumen",
+      "match_id": "B0HF3NYBF8",
+      "title": "European World Championships, FInals",
+      "synopsis": "European World Championships, FInals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d32b008-3039-4f88-af82-25cbf69b154e/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC8B3M1M",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b9dce6f-4618-4feb-86f5-935b090596e2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF3NYBF8",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDJMD4AAAAAAAAMJEHRTA54DSUYY.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqo5JnBhpqj8vnA2pjbG91ZGZyb250Angpc3NpZDo3ZDMzY2M5ZC0zNDU5LTQ0YTEtOWZmYi1iYjE4ODcxNmM2YzYZATihBaECeDMvaDlwcmFjdWd6bC9vdXQvdjEvY2IyMDhkZWNjZDlkNDk1OWE0MzY3ZDc0ZjcwYjg4MGNYIBHouaIf-BVEsU08SzMhP18gAThe6kFiLvfNYUmrLeid/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/h9pracugzl/out/v1/cb208deccd9d4959a4367d74f70b880c/72369b17-a479-4428-8843-fa2217cbb0af-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
       },
-      "drm_key": "208c708b8ebd1a231ce87a6ebccf45f0:35af187588402284668666947226aa20"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
     },
     {
-      "match_id": "B0HFGMXP6T",
-      "title": "Leagues Cup Wrap-Up",
-      "synopsis": "Leagues Cup Wrap-Up",
+      "match_id": "B0HF7PKLWD",
+      "title": "Great Britain vs. Chinese Taipei",
+      "synopsis": "Great Britain vs. Chinese Taipei",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0fda243-dbe6-4698-9035-6c4f450e8d9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGMXP6T",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f3ef303-660a-407e-84cc-6f5d31a15baf/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7PKLWD",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a37live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqo5JnBhpqj8vnA2Zha2FtYWkCeClzc2lkOjk5MGEwYjkzLTc0YmYtNDllMi05OWExLWFjODY4NDExMzE3MxkBOKEFoQJ4My85dWxqam9lNjJzL291dC92MS84MWUxM2U0ZmZmYWI0Y2RjOTE4NDI4YzE5ODFhNWIyORkBPIFiVVNYILa1lB8zU0v9htb5cnsRyDRbip1bratMf6tPsPwQclNH/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9uljjoe62s/out/v1/81e13e4fffab4cdc918428c1981a5b29/c8bae0ca-4ba4-4800-aa3c-99605da52a69-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
       },
-      "drm_key": "5b5b4ced50e61134ce3551b96360f514:f518af7833aa630a2bce3a850e7e4ee7"
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
     },
     {
-      "match_id": "B0HG1HSX37",
-      "title": "Top End Series: Nepal vs HH Kingsmen",
-      "synopsis": "Top End Series: Nepal vs HH Kingsmen",
+      "match_id": "B0H9YKFMQ5",
+      "title": "England vs. Pakistan",
+      "synopsis": "England vs. Pakistan",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ace3d8d-f993-4fe5-aaa7-315bf7d57c48/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG1HSX37",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b07d168a-6294-43c1-845c-7cf951b0d267/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H9YKFMQ5",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
@@ -71,6 +77,34 @@
         "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
       },
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HFTRPS2Y",
+      "title": "Aug 27 - PTT Clemson",
+      "synopsis": "Aug 27 - PTT Clemson",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.002e0354-c923-4e6f-b87e-2d1f6ef2097b/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTRPS2Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://ABBJIJ2AAAAAAAAMJRT6QMZ4L7VG7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqo_viBhpqkDViA2pjbG91ZGZyb250Angpc3NpZDoyOWRjZDkwNi01MjhlLTRhNzctOGY2Zi0xMTAxM2RkZGZkOGUZATihBaECeDMvNmYzY2hhZmRlaC9vdXQvdjEvNGExMTJmZjhkMzZkNGY3ODk1MTc0NTYwMGVlZjAyYTNYIEqo8JgkeaRyrnWllB9GHLO2kW17lw4UiAtoVzChA6GC/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6f3chafdeh/out/v1/4a112ff8d36d4f78951745600eef02a3/348f08f9-362a-4ee7-866e-cd06a65f669e-cenc.mpd"
+      },
+      "drm_key": "4c55913804c8dc5b46ffc56f053d0e87:0d70a0d7cb50ac0153b3c5dca9976730"
+    },
+    {
+      "match_id": "B0HFZM3YCG",
+      "title": "Aug 27 - PTT Glasgow",
+      "synopsis": "Aug 27 - PTT Glasgow",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae83ff2c-c22f-4e09-9e92-7577fe996883/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZM3YCG",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqo7WSBhpqj-8SA2ZmYXN0bHkCeClzc2lkOjE1NDczYTA1LTMxZjUtNGEzMi05ZmI4LTc2M2NiNmMzZTEyNhkBOKEFoQJ4My9qdnNxdDBwa2ZzL291dC92MS82ZDFiY2RiNzY5MWI0YTAzYjY5ZDRjMzQyYWEzNTgxMFggEniw604sWkXV2BCxo6Z6hPn66e3vzXTX5g-IyjC0AAo/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jvsqt0pkfs/out/v1/6d1bcdb7691b4a03b69d4c342aa35810/bb42605f-6130-443d-9b6e-6993d192e9a7-cenc.mpd"
+      },
+      "drm_key": "6d7ae4a3f39384daa83842e568c3917c:09d7d399c41e3f29e81b740581d95f81"
     }
   ]
 }
