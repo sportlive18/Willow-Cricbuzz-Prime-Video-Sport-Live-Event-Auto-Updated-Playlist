@@ -1,110 +1,76 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:02 PM 27-08-2026",
+    "LastUpdate": "05:32 AM 28-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HG4WWDP1",
-      "title": "LIVE: British Masters Day 1",
-      "synopsis": "LIVE: British Masters Day 1",
+      "match_id": "B0HDZBYWLJ",
+      "title": "USAC Sprint Car Smackdown at Kokomo Speedway",
+      "synopsis": "USAC Sprint Car Smackdown at Kokomo Speedway",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac0c2d5c-a60c-4e4f-a0e1-aef5f03bd9d4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4WWDP1",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6ee52993-c103-432e-956f-361c14d5c1d5/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HDZBYWLJ",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd"
       },
-      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+      "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0HF3NYBF8",
-      "title": "European World Championships, FInals",
-      "synopsis": "European World Championships, FInals",
+      "match_id": "B0HF2H8NVH",
+      "title": "Los Angeles vs. New York",
+      "synopsis": "Los Angeles vs. New York",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b9dce6f-4618-4feb-86f5-935b090596e2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF3NYBF8",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.329f9a83-a322-4843-8a65-81c8856962ce/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF2H8NVH",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+        "Original Server": "https://a153live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpI-LBhpqkMkLA2Zha2FtYWkCeClzc2lkOjE1NTQwNWVlLTE2NjEtNDQ1OS1hZmEzLTY1MjQ5MWU4ZjM2ZhkBOKEFoQJ4My91OG41OGtxbGZsL291dC92MS80OGQwZmZkYzBjMzU0ZmM4YmY5YjU2NWMyNDVkMGYwNxkBPIFiVVNYIAZhuOrJfuSXVRB954xPRZeQaEpNHI9Q8cfrqoBRseV6/CMH/47672b40c4ce4f39b9dfa11ca51d6a18/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/u8n58kqlfl/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cd21f3f1-c58f-4155-ba7a-53278248a092-cenc.mpd?aws.sessionId=1dfd4b48-9ee8-46d3-b7d5-15af532c92ff"
       },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+      "drm_key": "ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503"
     },
     {
-      "match_id": "B0HF7PKLWD",
-      "title": "Great Britain vs. Chinese Taipei",
-      "synopsis": "Great Britain vs. Chinese Taipei",
+      "match_id": "B0HFY9QV9Y",
+      "title": "Kansas City Monarchs at Winnipeg Goldeyes",
+      "synopsis": "Kansas City Monarchs at Winnipeg Goldeyes",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f3ef303-660a-407e-84cc-6f5d31a15baf/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7PKLWD",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.89917045-2f64-4602-ba1f-322381ab4e75/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFY9QV9Y",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
       },
-      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0H9YKFMQ5",
-      "title": "England vs. Pakistan",
-      "synopsis": "England vs. Pakistan",
+      "match_id": "B0HFTQS3MK",
+      "title": "Aug 27 - PTT Newport Beach",
+      "synopsis": "Aug 27 - PTT Newport Beach",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b07d168a-6294-43c1-845c-7cf951b0d267/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H9YKFMQ5",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b0aa22ba-36fe-4b44-914a-bcf24284e726/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTQS3MK",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
+        "Original Server": "https://ABIJRB6AAAAAAAAMIXZHEVZG2BVJL.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqpDsxBhpqkHSxA2pjbG91ZGZyb250Angpc3NpZDo0OTRhYmU1OC0xMzU3LTQzMmEtYWU1Yi0wYjc0MGNjNzcyZWEZATihBaECeDMvaHJyYnpmY291bS9vdXQvdjEvMGNiZDBiZmVjODdlNGMwMmFiMzE4NmI1ODQyZjg1YjUZATyBYlVTWCADvaVihxBYNVUlTH3jqCyzyic0uuOm1DZ3WclApj_ISg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrrbzfcoum/out/v1/0cbd0bfec87e4c02ab3186b5842f85b5/6ffb313b-01cb-4b5f-bae8-c7957bdc8946-cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
-    {
-      "match_id": "B0HFTRPS2Y",
-      "title": "Aug 27 - PTT Clemson",
-      "synopsis": "Aug 27 - PTT Clemson",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.002e0354-c923-4e6f-b87e-2d1f6ef2097b/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFTRPS2Y",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBJIJ2AAAAAAAAMJRT6QMZ4L7VG7.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqo_viBhpqkDViA2pjbG91ZGZyb250Angpc3NpZDoyOWRjZDkwNi01MjhlLTRhNzctOGY2Zi0xMTAxM2RkZGZkOGUZATihBaECeDMvNmYzY2hhZmRlaC9vdXQvdjEvNGExMTJmZjhkMzZkNGY3ODk1MTc0NTYwMGVlZjAyYTNYIEqo8JgkeaRyrnWllB9GHLO2kW17lw4UiAtoVzChA6GC/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6f3chafdeh/out/v1/4a112ff8d36d4f78951745600eef02a3/348f08f9-362a-4ee7-866e-cd06a65f669e-cenc.mpd"
-      },
-      "drm_key": "4c55913804c8dc5b46ffc56f053d0e87:0d70a0d7cb50ac0153b3c5dca9976730"
-    },
-    {
-      "match_id": "B0HFZM3YCG",
-      "title": "Aug 27 - PTT Glasgow",
-      "synopsis": "Aug 27 - PTT Glasgow",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae83ff2c-c22f-4e09-9e92-7577fe996883/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFZM3YCG",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqo7WSBhpqj-8SA2ZmYXN0bHkCeClzc2lkOjE1NDczYTA1LTMxZjUtNGEzMi05ZmI4LTc2M2NiNmMzZTEyNhkBOKEFoQJ4My9qdnNxdDBwa2ZzL291dC92MS82ZDFiY2RiNzY5MWI0YTAzYjY5ZDRjMzQyYWEzNTgxMFggEniw604sWkXV2BCxo6Z6hPn66e3vzXTX5g-IyjC0AAo/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jvsqt0pkfs/out/v1/6d1bcdb7691b4a03b69d4c342aa35810/bb42605f-6130-443d-9b6e-6993d192e9a7-cenc.mpd"
-      },
-      "drm_key": "6d7ae4a3f39384daa83842e568c3917c:09d7d399c41e3f29e81b740581d95f81"
+      "drm_key": "a1d76600ed67b4bf29882eb8bab57753:671247aad1838b92e5e02df544782054"
     }
   ]
 }
