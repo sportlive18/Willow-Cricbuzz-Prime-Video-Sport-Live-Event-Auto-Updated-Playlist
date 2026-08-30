@@ -1,58 +1,97 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "04:32 AM 30-08-2026",
+    "LastUpdate": "06:32 AM 30-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 0,
-    "UpcomingCount": 20
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
       "match_id": "B0HCSVQYFS",
       "title": "Caribbean Premier League 2026 - 20th Match - Trinbago Knight Riders vs Guyana Amazon Warriors",
       "synopsis": "Caribbean Premier League 2026 - 20th Match - Trinbago Knight Riders vs Guyana Amazon Warriors",
-      "status": "UPCOMING",
-      "time": "Live at 5 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.603688d9-790e-4509-8124-d370d072550f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "4:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.603688d9-790e-4509-8124-d370d072550f/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HCSVQYFS?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0ly3syp4vu/out/v1/fa5becce41784086ab6db593f98002d2/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ibei0fcxse/out/v1/ea2988c2b0f14422b547a0b9558e7a82/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ibei0fcxse/out/v1/ea2988c2b0f14422b547a0b9558e7a82/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ibei0fcxse/out/v1/ea2988c2b0f14422b547a0b9558e7a82/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ibei0fcxse/out/v1/ea2988c2b0f14422b547a0b9558e7a82/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ibei0fcxse/out/v1/ea2988c2b0f14422b547a0b9558e7a82/cenc.mpd"
+      },
+      "drm_key": "6e72d8f2521f9878dc62710c2ff0b57d:0d5b23fec2afcb3a792675f20a1dae48"
     },
     {
       "match_id": "B0HFV9HWMD",
       "title": "Top End T20 Series 2026 - 1st Semi-Final - Bangladesh HP vs Victoria",
       "synopsis": "Top End T20 Series 2026 - 1st Semi-Final - Bangladesh HP vs Victoria",
-      "status": "UPCOMING",
-      "time": "Live at 6:30 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08a5d67b-0d7a-4425-958f-bcdaffb43106/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08a5d67b-0d7a-4425-958f-bcdaffb43106/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFV9HWMD?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y5no8uudng/out/v1/1bf8185806ba496687c763b70a943664/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lug33vwfcx/out/v1/82d450dd5d5844db8618890bf7a1bd6d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lug33vwfcx/out/v1/82d450dd5d5844db8618890bf7a1bd6d/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lug33vwfcx/out/v1/82d450dd5d5844db8618890bf7a1bd6d/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lug33vwfcx/out/v1/82d450dd5d5844db8618890bf7a1bd6d/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lug33vwfcx/out/v1/82d450dd5d5844db8618890bf7a1bd6d/cenc.mpd"
+      },
+      "drm_key": "4e17e6d149ea932864ce6e5d84079f3e:ba5d2b0d3d833f023b2015aa00eeb10d"
     },
     {
       "match_id": "B0HGDDWGFN",
       "title": "Top End T20 Series 2026 - 2nd Semi-Final - Adelaide Strikers Academy vs New Zealand A",
       "synopsis": "Top End T20 Series 2026 - 2nd Semi-Final - Adelaide Strikers Academy vs New Zealand A",
-      "status": "UPCOMING",
-      "time": "Live at 7 AM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9aa127e-8dc7-4233-9fea-a554a02d8d81/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "6:30 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9aa127e-8dc7-4233-9fea-a554a02d8d81/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HGDDWGFN?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lyoltjhzxw/out/v1/e590ff964b654e408762d566320f57dd/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7bguoib2ok/out/v1/3dfbf93e2d3b4e879644ec10de4e2ab3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7bguoib2ok/out/v1/3dfbf93e2d3b4e879644ec10de4e2ab3/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/7bguoib2ok/out/v1/3dfbf93e2d3b4e879644ec10de4e2ab3/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7bguoib2ok/out/v1/3dfbf93e2d3b4e879644ec10de4e2ab3/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7bguoib2ok/out/v1/3dfbf93e2d3b4e879644ec10de4e2ab3/cenc.mpd"
+      },
+      "drm_key": "8dbfa5e75324763c430e42c7b7810c6a:ef819f20671c0ee7d12d5fb3b4bfcbcc"
     },
     {
       "match_id": "B0HG9KFX4K",
       "title": "Top End T20 Series 2026 - Final - TBC vs TBC",
       "synopsis": "Top End T20 Series 2026 - Final - TBC vs TBC",
       "status": "UPCOMING",
-      "time": "Live at 12:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cdb04c2-2ae9-4123-bc1d-25624460aa88/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "time": "Live at 12:00 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cdb04c2-2ae9-4123-bc1d-25624460aa88/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HG9KFX4K?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
       "stream_url_alpha": "",
