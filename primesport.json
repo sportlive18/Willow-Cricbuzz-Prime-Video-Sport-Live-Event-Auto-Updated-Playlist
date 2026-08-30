@@ -1,62 +1,93 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "07:02 PM 30-08-2026",
+    "LastUpdate": "11:02 PM 30-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0GX9KXHK2",
-      "title": "Aberdeen vs. Rangers",
-      "synopsis": "Aberdeen vs. Rangers",
+      "match_id": "B0H7ML96BC",
+      "title": "Wichita Regional, Stepladder Finals",
+      "synopsis": "Wichita Regional, Stepladder Finals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.310b0964-17cc-40fd-aa74-ad4a12fbc836/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0GX9KXHK2",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b4392f0c-4150-4818-afeb-83da781c6e53/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H7ML96BC",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+        "Original Server": "https://a56live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpqqAyCBhpqlEYCA2Zha2FtYWkCeClzc2lkOjc1YmUxZTVlLTRiZGEtNGNmMy1iM2VhLTgwMzI5ZTc2OWQzYxkBOKEFoQJ4My8yZThhZXEwemZzL291dC92MS9lODVhODI2MjYyMGM0OGEwYjdjNGIxODVhNTNjMjhlNVgg9hypHpCjVPSB740KcgI0_bERtrycJVweYj-gOUGUskI/CMH/c637e40a93cd4368ae24c85f12da7687/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-east-1_cmh_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/2e8aeq0zfs/out/v1/e85a8262620c48a0b7c4b185a53c28e5/5e234625-62ff-4c9d-a637-e381d2a64f34-cenc.mpd?aws.sessionId=f7c434f5-1cd1-48e5-9759-d8c1e2a20307"
       },
-      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+      "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
     },
     {
-      "match_id": "B0HF7DBMCR",
-      "title": "Boland Cavaliers v Suzuki Griquas",
-      "synopsis": "Boland Cavaliers v Suzuki Griquas",
+      "match_id": "B0HFJQPTN7",
+      "title": "TOURCAST Live From the TOUR Championship-Round 4",
+      "synopsis": "TOURCAST Live From the TOUR Championship-Round 4",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b37ab0f-1bb2-4259-90d0-e7de8af2e07d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF7DBMCR",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9981bdf1-ec52-4972-a791-92ec5e694fe6/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFJQPTN7",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wchmloaa3m/out/v1/ca8e1514683d4a84bbf9c9d285fea568/cenc.mpd"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e"
     },
     {
-      "match_id": "B0HFDK6QLR",
-      "title": "Aug 30 - PTT Glasgow",
-      "synopsis": "Aug 30 - PTT Glasgow",
+      "match_id": "B0HG9Z56SN",
+      "title": "MLP Finals, New York City: Finals",
+      "synopsis": "MLP Finals, New York City: Finals",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a82498d6-960d-42a7-9d2c-75a0a4bf6bca/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFDK6QLR",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4179e5e0-c27d-4aa9-9046-e7ef5b1d8540/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG9Z56SN",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a178live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqp6MLBhpqk9yLA2Zha2FtYWkCeClzc2lkOmZkYjc0Nzg5LWM0ODAtNGY2ZS1iMzljLTA5MmRiMTJjMDczNRkBOKEFoQJ4My8xaWI5dDZydzZ1L291dC92MS8zMDA2Y2QwOGYyNTE0ZTJmYjkzYzgwZWQ4ZWQ2OThmMxkBPIFiVVNYIBHfZy3tlmIviAj_klxKtelSp83hyK2jbXp-IOaEXF2s/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/1ib9t6rw6u/out/v1/3006cd08f2514e2fb93c80ed8ed698f3/6fb259bf-7055-4b6d-bfea-76ba918cb1ae-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
-      "drm_key": "c3cc73da73e70f55dddbf787e06555da:a348a804e5b8b282955f7ff9c6e7c557"
+      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0GXMR3NJ2",
+      "title": "India vs. Thailand",
+      "synopsis": "India vs. Thailand",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c80f4451-57e4-4432-87b4-dbc47a245216/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0GXMR3NJ2",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+    },
+    {
+      "match_id": "B0HFVXV84R",
+      "title": "Aug 30 - PTT Boise",
+      "synopsis": "Aug 30 - PTT Boise",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed72f053-0878-4587-ab1e-02987f022b93/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFVXV84R",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hrr1zgjhyd/out/v1/82520659626d4421a05ce9578700b701/94a2a314-81c5-407d-b4e6-29a21dfde1be-cenc.mpd"
+      },
+      "drm_key": "9e53159c0e20028c8ea0ee2808a3286d:c065ea22b10706c3750efb0a11708e37"
     },
     {
       "match_id": "B0HF59LQFW",
@@ -68,9 +99,23 @@
       "match_url": "https://www.amazon.com/gp/video/detail/B0HF59LQFW",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDBWPDAAAAAAAAMHIIAEVBPJW6NT.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WI2mAWpwcmltZXZpZGVvBBpqp_BfBhpqlCnfA2pjbG91ZGZyb250Angpc3NpZDo1YzUwMjM5Mi03NzkyLTRmYzItYTBiYy1lNjM1YmExNjEyOGMZATihBaECeDMvaXpjcHZramRqbi9vdXQvdjEvNzI1YzRlNjIzNzI3NDQ3NmJiYWM3NjkzMTAwYzg0Y2FYIIrhpH3E0oZIGNo8SV0UtdTn7qtzKgkyq0ad89oQG9ud/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/izcpvkjdjn/out/v1/725c4e6237274476bbac7693100c84ca/f1722f08-3a4e-466c-93e3-b73b9281d2f5-cenc.mpd"
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/izcpvkjdjn/out/v1/725c4e6237274476bbac7693100c84ca/f1722f08-3a4e-466c-93e3-b73b9281d2f5-cenc.mpd"
       },
       "drm_key": "b19cbfbbbf2c4f09fde4ce4458058c29:e84fcb373df9ef491de00412bbdd2cef"
+    },
+    {
+      "match_id": "B0HFC1ZZJT",
+      "title": "Aug 30 - PTT Newport Beach",
+      "synopsis": "Aug 30 - PTT Newport Beach",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60b7f13e-4866-4bcc-9193-903b1c94e004/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFC1ZZJT",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uobemxjcur/out/v1/c53ed0a29a0d4c75894437615feb516b/85aed315-ccf9-4f6d-b6cf-373d42df666a-cenc.mpd"
+      },
+      "drm_key": "ee98d6baf4f08c80266f57a586f455c9:3d9c1e864d35b0f07db72cc1560f7808"
     }
   ]
 }
