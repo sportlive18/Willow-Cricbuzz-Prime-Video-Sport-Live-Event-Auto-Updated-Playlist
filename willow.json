@@ -1,13 +1,13 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "05:02 PM 30-08-2026",
+    "LastUpdate": "08:02 PM 30-08-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 19
+    "LiveCount": 3,
+    "UpcomingCount": 17
   },
   "Matches": [
     {
@@ -39,25 +39,51 @@
       "match_id": "B0HFC85PCP",
       "title": "European T20 Premier League 2026 - 8th Match - Edinburgh Castle Rockers vs Dublin Guardians",
       "synopsis": "European T20 Premier League 2026 - 8th Match - Edinburgh Castle Rockers vs Dublin Guardians",
-      "status": "UPCOMING",
-      "time": "Live at 7:15 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f628db3-1900-4420-8876-297edf1094a1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:20 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f628db3-1900-4420-8876-297edf1094a1/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HFC85PCP?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ghvu5mcuul/out/v1/0360c80bc99a4f8493a46209979d79a6/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ghvu5mcuul/out/v1/0360c80bc99a4f8493a46209979d79a6/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghvu5mcuul/out/v1/0360c80bc99a4f8493a46209979d79a6/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ghvu5mcuul/out/v1/0360c80bc99a4f8493a46209979d79a6/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ghvu5mcuul/out/v1/0360c80bc99a4f8493a46209979d79a6/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd"
+      },
+      "drm_key": "12d42b084c3e2e520bf1d4ce39f94e1c:a73efb7179d1f74ff001477be565230c"
     },
     {
       "match_id": "B0HCL9X2KX",
       "title": "Womens Asia Cup 2026 - 3rd Match - India Women vs Thailand Women",
       "synopsis": "Womens Asia Cup 2026 - 3rd Match - India Women vs Thailand Women",
-      "status": "UPCOMING",
-      "time": "Live at 8:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf344ae-20ef-4af4-928f-cb2587d719af/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "status": "LIVE",
+      "time": "7:55 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cf344ae-20ef-4af4-928f-cb2587d719af/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HCL9X2KX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
-      "stream_url_alpha": "",
-      "drm_key": ""
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/snr44chyd1/out/v1/45d45849bed74da8b357bac2a5bf7b7b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/snr44chyd1/out/v1/45d45849bed74da8b357bac2a5bf7b7b/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/snr44chyd1/out/v1/45d45849bed74da8b357bac2a5bf7b7b/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/snr44chyd1/out/v1/45d45849bed74da8b357bac2a5bf7b7b/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/snr44chyd1/out/v1/45d45849bed74da8b357bac2a5bf7b7b/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd"
+      },
+      "drm_key": "6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b"
     },
     {
       "match_id": "B0HC8FYJB3",
