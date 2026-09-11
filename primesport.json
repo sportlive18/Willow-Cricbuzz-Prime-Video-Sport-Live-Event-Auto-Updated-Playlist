@@ -1,15 +1,29 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:02 AM 11-09-2026",
+    "LastUpdate": "07:02 AM 11-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HH5QJLSB",
+      "title": "NFL GameCenter Live-Melbourne Game",
+      "synopsis": "NFL GameCenter Live-Melbourne Game",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.391ae9af-3501-48fe-9eec-094f58206ff0/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH5QJLSB",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a135live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqtxKbBhpqo0wbA2Zha2FtYWkCeClzc2lkOjZhYzQxZTI1LTQ5ZDctNGY0Ny05NGZiLWJhNDZjNjk2MWE0MBkBOKEFoQJ4My9jeHE5dGgyaW1hL291dC92MS84MjU0MTA0NTM2OTI0YWNkYTVhMTAzYjlkMDkzZDhhNhkBPIFiVVNYIEpWwHPQVrUmpbl2kP6OGPepQEE4ieil2aoOupR-iljc/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/cxq9th2ima/out/v1/8254104536924acda5a103b9d093d8a6/6a6b4cc4-c5f7-4249-b03d-0e8119b02f43-cenc.mpd"
+      },
+      "drm_key": "b6b6164097b8e3b8e66b0a73298839f3:8ff917bbb1136864be35423a5ac1c51d"
+    },
     {
       "match_id": "B0HFJYPGVD",
       "title": "HLR Tuscarora 50 at Port Royal Speedway",
@@ -28,40 +42,6 @@
       "drm_key": "2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca"
     },
     {
-      "match_id": "B0H4V9TNFN",
-      "title": "Gannon Golden Knights at Wheeling Cardinals",
-      "synopsis": "Gannon Golden Knights at Wheeling Cardinals",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2a91c78e-62a2-4510-a76b-4bb38722338c/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H4V9TNFN",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HFWH52T8",
-      "title": "Road to the Dance",
-      "synopsis": "Road to the Dance",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57569de5-52fa-4788-939b-acfd15abdf93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFWH52T8",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac4wkwd8nd/out/v1/67df1a7f8a284bef90b219be4aeec7e8/cenc.mpd"
-      },
-      "drm_key": "b3c143f76cc86fcaf89268bb8881b23a:f957c339c7098930d2421c15b64b1452"
-    },
-    {
       "match_id": "B0HHJXZGJB",
       "title": "Sep 10 - PTT Newport Beach",
       "synopsis": "Sep 10 - PTT Newport Beach",
@@ -74,20 +54,6 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqtuhrBhpqoyHrA2ZmYXN0bHkCeClzc2lkOjA2MjYwZDU0LTAwMDMtNGEyNC1hZDQ1LWI5MTA0MzJiNjhjNRkBOKEFoQJ4My9iZTFqeHYxbXp6L291dC92MS9iZjVlNzllZTU5ZDI0YTcxYTgwNDRlMGY5NWE2NTkyMhkBPIFiVVNYIJL5NFESJhaiSlqlkKEc2f-Dh8j-uxlB_kMzGiwnPWUf/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/be1jxv1mzz/out/v1/bf5e79ee59d24a71a8044e0f95a65922/3ebbea44-1b3e-4970-aad6-b32eff42714e-cenc.mpd"
       },
       "drm_key": "c762fe648b25bdd17831c0849958c5c5:01fee2a15ff617df34f5a7cd13f788eb"
-    },
-    {
-      "match_id": "B0HC64CLF4",
-      "title": "Sep 10 - PTT Knoxville",
-      "synopsis": "Sep 10 - PTT Knoxville",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d07f8131-8182-4bee-b75f-57577338ee6f/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HC64CLF4",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWImmAWpwcmltZXZpZGVvBBpqtuhoBhpqoyHoA2ZmYXN0bHkCeClzc2lkOmQyYmY3ODdhLTY3NmEtNDg1MC04MDViLWYyZDFkODI1MjM3NhkBOKEFoQJ4My9icWNtZ2tkMGY3L291dC92MS82YWExNDZjZGI4ODQ0YTAzOTY3MTBmMmFjYTNhOTYyZVggGkUWm_Z4eV9A60Tll1oDqzY9rU3gAJCW0oIipTK_qp0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/bqcmgkd0f7/out/v1/6aa146cdb8844a0396710f2aca3a962e/196b6305-ff9f-4953-b50f-c9ddaa867c8a-cenc.mpd"
-      },
-      "drm_key": "2ae02b792a29ad71768b9a66a656f6de:d1b9ca79a4dcd008cdf6c75e32e4778a"
     }
   ]
 }
