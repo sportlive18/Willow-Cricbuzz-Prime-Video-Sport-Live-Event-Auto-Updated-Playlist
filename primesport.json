@@ -1,28 +1,82 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:32 PM 12-09-2026",
+    "LastUpdate": "07:32 PM 12-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 7,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HF2N9SFX",
-      "title": "Spain: Practice 3 (Sky Sports)",
-      "synopsis": "Spain: Practice 3 (Sky Sports)",
+      "match_id": "B0HG69ZK5M",
+      "title": "West Bromwich Albion vs. Queens Park Rangers",
+      "synopsis": "West Bromwich Albion vs. Queens Park Rangers",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.e52cd771-bbd6-490a-90d5-e6fab1cd352d/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF2N9SFX",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0a4d3e92-1ac7-418d-a399-736c783e7496/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG69ZK5M",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABBJLGAAAAAAAAAMKFQD45SRNMEEW.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpquOmsBhpqpSMsA2pjbG91ZGZyb250Angpc3NpZDozYjQwN2FiZS0wN2RjLTQ4OWUtOGJlYi1lN2Q1ODlhYmFlYzUZATihBaECeDMvamlyd2N5YndlaS9vdXQvdjEvM2M3YzUxNDQzYzMwNGQ4NTgyY2QxMWIwNWM4M2JiMjgZATyBYlVTWCCdf6GdO1HrY7y13TBVYcoRKsteUIJcvb6ptevCITqo4A/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jirwcybwei/out/v1/3c7c51443c304d8582cd11b05c83bb28/94c484aa-418d-46cc-9aef-7181f7ae74e7-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "5cbbe4488185617f273e5a14b6e8f581:4634edd2f1f7bb472d1622a49a409758"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+    },
+    {
+      "match_id": "B0H2PLK6YF",
+      "title": "LIVE: Irish Open Day 3",
+      "synopsis": "LIVE: Irish Open Day 3",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a650af41-bbbf-49ef-b08a-fa19fb8bf6cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H2PLK6YF",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd"
+      },
+      "drm_key": "9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb"
+    },
+    {
+      "match_id": "B0HFF57BL6",
+      "title": "2026 FIBA 3x3 Europe Cup",
+      "synopsis": "2026 FIBA 3x3 Europe Cup",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.68ce1af7-cf15-449c-b1bd-0b31b31f7c50/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFF57BL6",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HCX99K1L",
+      "title": "Second Semifinal: Japan vs. United States",
+      "synopsis": "Second Semifinal: Japan vs. United States",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0fc2dd07-8ecf-4cbe-a607-59c64fe54445/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCX99K1L",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd"
+      },
+      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
     },
     {
       "match_id": "B0HFD6HQMR",
@@ -42,18 +96,32 @@
       "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
     },
     {
-      "match_id": "B0HF34ZB6M",
-      "title": "Spain: Practice 3",
-      "synopsis": "Spain: Practice 3",
+      "match_id": "B0HG6S8T4M",
+      "title": "Sep 12 - PTT Knoxville",
+      "synopsis": "Sep 12 - PTT Knoxville",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.efa3275c-655f-42dc-98ea-ed7b4a10ac8e/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/appletvus/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1607,885,234,117_kv6e4ed7a60d36179896a92487d4bec652_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HF34ZB6M",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f721c753-ec1d-451b-8525-b0b661c93c48/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HG6S8T4M",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDJIJTAAAAAAAAML6FPMANGXPVXA.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpquPC3BhpqpSo3A2pjbG91ZGZyb250Angpc3NpZDphYzc5Yzg2OS1lNWRjLTQ2YTAtYTkxYi01ZjcyYjVjNWVjYWIZATihBaECeDMvYzY2ZGRuaHN0ai9vdXQvdjEvMGJlZmUzODZlMGY2NGE4ZWJlZjQyMjNkNTA5YmEwNDUZATyBYlVTWCB1obW8ne7zGK25FlPr29CSKrrY3TtyUbMgYD9IDLYwMw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/c66ddnhstj/out/v1/0befe386e0f64a8ebef4223d509ba045/409d03c0-47f8-41ba-9167-cbac4d13d4e3-cenc.mpd"
+        "Original Server": "https://a154live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WImmAWpwcmltZXZpZGVvBBpquRPiBhpqpU1iA2Zha2FtYWkCeClzc2lkOjZmMmQ2ZWNhLWU0YTQtNGVkYi05NzZhLWQ4MDhhYmEwNTdjMBkBOKEFoQJ4My9nbnI3OGw2dmJiL291dC92MS81YjVhZGIwNmYzYWM0OTM1OGJhMGVlNWI0OTU4MTU3MVggbo5B_taB5n1myB2jMJT_bWXe5tW4WTWlEwVNM2DJra0/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/gnr78l6vbb/out/v1/5b5adb06f3ac49358ba0ee5b49581571/129a916b-e957-48de-b1a9-25b4c0af3ba9-cenc.mpd"
       },
-      "drm_key": "ed6ee70b837541ff92855cc88c06fbca:29dca3a808862db581bc42c8f4a2d93e"
+      "drm_key": "d77978ffa5e13cb06ee3192eae17212a:48225ad1b0e8deff51b03e5438f54783"
+    },
+    {
+      "match_id": "B0HH3TWK2Y",
+      "title": "Sep 12 - PTT Tallahassee",
+      "synopsis": "Sep 12 - PTT Tallahassee",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.764ca4ba-4f92-474a-bd2e-2f4e0a5152e7/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HH3TWK2Y",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpquRruBhpqpVRuA2ZmYXN0bHkCeClzc2lkOjc2YzU5ZjMxLTBiYzAtNGU3MC1hOWI1LTgwMTk4ZGM1Mjc1YRkBOKEFoQJ4My8xYW1qdDFucng3L291dC92MS8yZTc4ZTlhMmQ4MWY0NjFhOTkxMGJhZGY0ZDJmZTg4OBkBPIFiVVNYIJI7uU0EUUNhnJQ6_WixL1Qak5wXG16DlL9ESAImJ89n/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1amjt1nrx7/out/v1/2e78e9a2d81f461a9910badf4d2fe888/a8e807c3-499f-4b69-9b5e-5a9a9fd66c71-cenc.mpd"
+      },
+      "drm_key": "5a6b02800c9e85719ba982e5ef1d1715:f8f582975daa57fcce6bc39a7f47271e"
     }
   ]
 }
