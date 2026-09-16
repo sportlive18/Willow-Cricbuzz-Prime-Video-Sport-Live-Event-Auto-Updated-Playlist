@@ -1,40 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "12:02 AM 17-09-2026",
+    "LastUpdate": "03:32 AM 17-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 1,
-    "UpcomingCount": 7
+    "LiveCount": 0,
+    "UpcomingCount": 13
   },
   "Matches": [
-    {
-      "match_id": "B0H86X7D1G",
-      "title": "Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women",
-      "synopsis": "Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women",
-      "status": "LIVE",
-      "time": "7:15 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8131618f-d5b0-4fcd-ae11-5737a281d7b5/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H86X7D1G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u81quxbrkq/out/v1/ecd2b860e87f461a8514827dc6df6c52/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u81quxbrkq/out/v1/ecd2b860e87f461a8514827dc6df6c52/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/u81quxbrkq/out/v1/ecd2b860e87f461a8514827dc6df6c52/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u81quxbrkq/out/v1/ecd2b860e87f461a8514827dc6df6c52/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u81quxbrkq/out/v1/ecd2b860e87f461a8514827dc6df6c52/cenc.mpd"
-      },
-      "drm_key": "863be6e9b89112e9dde3ac9b9a2d19a6:2a951608542047e41ee47f35321db1fc"
-    },
     {
       "match_id": "B0HJW4PLMQ",
       "title": "Caribbean Premier League 2026 - Eliminator - Barbados Tridents vs Jamaica Kingsmen",
@@ -42,7 +17,19 @@
       "status": "UPCOMING",
       "time": "Live at 5 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f79bcf1b-0b8b-4f98-9699-a5da432d6420/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJW4PLMQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJW4PLMQ?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HCYLP6S8",
+      "title": "Womens Asian Games 2026 - 1st Quarter-Final - Bangladesh Women vs China Women",
+      "synopsis": "Womens Asian Games 2026 - 1st Quarter-Final - Bangladesh Women vs China Women",
+      "status": "UPCOMING",
+      "time": "Live at 6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a47eab32-1221-4efe-9025-6a533cffbc35/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HCYLP6S8?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -108,13 +95,73 @@
       "drm_key": ""
     },
     {
+      "match_id": "B0HF81VXDB",
+      "title": "Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women",
+      "synopsis": "Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women",
+      "status": "UPCOMING",
+      "time": "Tomorrow 6 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7731dc3-3271-4d69-8d3a-5838906e08c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HF81VXDB?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HJYQ9F3Q",
+      "title": "Womens Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women",
+      "synopsis": "Womens Asian Games 2026 - 4th Quarter-Final - Japan Women vs India Women",
+      "status": "UPCOMING",
+      "time": "Tomorrow 11 AM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.700830c1-247c-4a63-be29-ac93e7769418/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJYQ9F3Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
       "match_id": "B0HK18NQRX",
       "title": "Sri Lanka tour of England 2026 - 3rd T20I - England vs Sri Lanka",
       "synopsis": "Sri Lanka tour of England 2026 - 3rd T20I - England vs Sri Lanka",
       "status": "UPCOMING",
       "time": "Sat, Sep 19 7:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f553e32-5160-4bbb-a2bc-80d97cf445e7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK18NQRX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK18NQRX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HJQCS6P5",
+      "title": "Sri Lanka tour of England 2026 - 1st ODI - England vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of England 2026 - 1st ODI - England vs Sri Lanka",
+      "status": "UPCOMING",
+      "time": "Tue, Sep 22 5:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ca10c989-713e-46cb-b773-a36940b75741/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJQCS6P5?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HJ6CK45R",
+      "title": "Sri Lanka tour of England 2026 - 2nd ODI - England vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of England 2026 - 2nd ODI - England vs Sri Lanka",
+      "status": "UPCOMING",
+      "time": "Thu, Sep 24 5:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1fbb0170-7e6e-48b2-8d49-96d6e327094c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJ6CK45R?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_12",
+      "is_free": false,
+      "stream_url_alpha": "",
+      "drm_key": ""
+    },
+    {
+      "match_id": "B0HJY39X3Y",
+      "title": "Sri Lanka tour of England 2026 - 3rd ODI - England vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of England 2026 - 3rd ODI - England vs Sri Lanka",
+      "status": "UPCOMING",
+      "time": "Sun, Sep 27 3:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c98a79e-1b64-459e-937e-912f862701aa/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJY39X3Y?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_13",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
