@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 PM 23-09-2026",
+    "LastUpdate": "09:32 PM 23-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HKDH5GCW",
-      "title": "Gymnastics 04",
-      "synopsis": "Gymnastics 04",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2e8a0d80-36e3-4164-b356-362b4b4e97ea/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKDH5GCW",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-      },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-    },
     {
       "match_id": "B0HCPMGTCX",
       "title": "The Morning Drive",
@@ -62,52 +45,32 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HFHJZTYX",
-      "title": "Predator Pro Billiard Series: Vietnam",
-      "synopsis": "Predator Pro Billiard Series: Vietnam",
+      "match_id": "B0HHXMDPSC",
+      "title": "Sep 23 - PTT Norfolk",
+      "synopsis": "Sep 23 - PTT Norfolk",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/15/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFHJZTYX",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f892c26-0610-4708-9707-1a1e386cf91f/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHXMDPSC",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd"
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx6JyBhpqs9vyA2ZmYXN0bHkCeClzc2lkOjE3MjI4YzA4LTkyZjEtNGQyOS1iYTc4LTEzNjE2ZDEyMjI0NRkBOKEFoQJ4My9jazZod2F2d3cxL291dC92MS81NDEwZWEzNzk0Nzg0Y2NjYmRjMjI5NTk1YTg1MWFmMRkBPIFiVVNYIOdj7d2UFy_5A9D1UR-ursvFmqgjSCfxd-qsMbymw0Q7/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ck6hwavww1/out/v1/5410ea3794784cccbdc229595a851af1/2f77d738-309f-4e96-a285-d4b0a727b0cc-cenc.mpd"
       },
-      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
+      "drm_key": "8cd7a96084cf4b7a63ad40a60870aa94:68f577830270c18de5672de57c5129f3"
     },
     {
-      "match_id": "B0HG18RRJ9",
-      "title": "International Brawling Championship 5",
-      "synopsis": "International Brawling Championship 5",
+      "match_id": "B0HJJL4L2Q",
+      "title": "Sep 23 - PTT College Station",
+      "synopsis": "Sep 23 - PTT College Station",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a0ce69b8-99df-4f8a-ad58-2aa8e3c22550/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG18RRJ9",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bafd5b7f-0258-4a91-a6e3-e269b4d96d07/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJJL4L2Q",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqx6JzBhpqs9vzA2ZmYXN0bHkCeClzc2lkOjQxMWQzM2VlLTliOWItNDc2YS04ZDE1LTFmZmUxZWNjNWMwORkBOKEFoQJ4My9rbmF0bjZ6cGU3L291dC92MS8zNWUxNzg3ZDA3NWU0N2RmYTk2MzJiOTMyZDEyMjgzMRkBPIFiVVNYIP7tfLbWJwNFmUyZ9hcMHRwpEBoCBlWXBEwUo5Gst9jg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/knatn6zpe7/out/v1/35e1787d075e47dfa9632b932d122831/30a8854f-4dee-4e7c-b2c7-79450e2f1469-cenc.mpd"
       },
-      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-    },
-    {
-      "match_id": "B0HGBTGFV6",
-      "title": "Sep 23 - PTT Essen",
-      "synopsis": "Sep 23 - PTT Essen",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abd38d59-362a-46ef-9003-759bd297e353/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HGBTGFV6",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABAJ3CZAAAAAAAAMLD4OI4BFGLCYV.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqx0AEBhpqs3mEA2pjbG91ZGZyb250Angpc3NpZDpjYTM1YmFiNS1kZjg1LTRmYjItYThhYy1hOTE1MmE2MDhlMDEZATihBaECeDMvZHFsZDJqNWtmeC9vdXQvdjEvMmE1NjQyOTQ3NWQyNGQwN2JmOTVkMDlmZWNlOWViMDMZATyBYlVTWCDCpEJX3_Qq0GQYFD0J8tSwirXsSjjo1ULXSlNBtuk3OA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/dqld2j5kfx/out/v1/2a56429475d24d07bf95d09fece9eb03/634c7400-9e7e-44ac-b3a7-0d0f83becf52-cenc.mpd"
-      },
-      "drm_key": "e002f5a872c5002ccea079056f74ad05:c964903c04bcdfe91aee7dd76db1cb95"
+      "drm_key": "660b9e6d59601434b97298cf5382e6c8:42a18d310fb3e376711303616a1b8fdd"
     }
   ]
 }
