@@ -1,15 +1,15 @@
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 AM 24-09-2026
+#LAST_UPDATE:10:32 AM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
-#UPCOMING_COUNT:18
+#UPCOMING_COUNT:17
 
-#EXTINF:-1 tvg-id="B0HKBMRLZ1" tvg-name="Asian Games 2026 - 1st Match - Japan vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3acf41e3-9c20-44d1-aec8-b34a0ee7bc20/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Asian Games 2026 - 1st Match - Japan vs Afghanistan
+#EXTINF:-1 tvg-id="B0H6XJYTG3" tvg-name="Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.386d0ce0-c3cb-4287-91d9-a957b886961c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uwxerw2eey/out/v1/14e8580d2e304df391b94c8eb68553a9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xyod0psaxc/out/v1/a6643b443bf84856a6e2ca892bc38c14/cenc.mpd
 
