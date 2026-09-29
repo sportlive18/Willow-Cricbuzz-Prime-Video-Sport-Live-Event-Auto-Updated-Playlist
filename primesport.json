@@ -1,42 +1,65 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 AM 29-09-2026",
+    "LastUpdate": "12:02 PM 29-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
+    "LiveCount": 3,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HK4M122L",
-      "title": "Sep 28 - PTT Newport Beach",
-      "synopsis": "Sep 28 - PTT Newport Beach",
+      "match_id": "B0HK312369",
+      "title": "Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia",
+      "synopsis": "Predator Pro Billiard Series: Indonesia-2026 Predator Pro Billiard Series: Indonesia",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.07cc4a97-01ab-49c8-8f0c-67249f46f94f/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HK4M122L",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17807db5-4a7d-4133-af1d-83c6c125b0ab/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK312369",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a83live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqznI0Bhpququ0A2Zha2FtYWkCeClzc2lkOmU5OTk1ODI3LTQ5NGEtNDcxOC1iNmJjLWUzYjViMjA5ZDVmYhkBOKEFoQJ4My82emJzMGM3amd4L291dC92MS9hZmMxNDBjZTJhN2Q0ZmEwYTM2YjRiNmNiNWE4YTQ5MxkBPIFiVVNYIDa-K1IhxQrRX55VF38vSQ6-kfq8Z4rzb3KiVqbwj1ZW/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6zbs0c7jgx/out/v1/afc140ce2a7d4fa0a36b4b6cb5a8a493/37510184-6c45-4659-a2f6-030e91cb6c2d-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd"
       },
-      "drm_key": "6a99abe3adb5ca21954fb8cec2e5e725:c12d0acfc4c5c09063a39f5ef66025fb"
+      "drm_key": "18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67"
     },
     {
-      "match_id": "B0HKJ1QM26",
-      "title": "Sep 28 - PTT Ithaca",
-      "synopsis": "Sep 28 - PTT Ithaca",
+      "match_id": "B0HKRP2SML",
+      "title": "Tour de Langkawi, Stage 3",
+      "synopsis": "Tour de Langkawi, Stage 3",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.914af9df-2dc1-4ab4-b4a3-f749766fc641/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKJ1QM26",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.762d8015-503d-4f37-b261-df4c5df1d404/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKRP2SML",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqzodPBhpqusDPA2ZmYXN0bHkCeClzc2lkOmZkMWFjMGNiLWVmODItNGNiNy1hM2NkLTQwZmI1M2IyYTg2ZRkBOKEFoQJ4My94ZTBzNGEyMXhvL291dC92MS8xMDE3NjUzNDgyYzA0YmVjOGU1YmZiOTg0N2RlYWIwNRkBPIFiVVNYICHMgf6rkxISQVXnj4qKOxDRNFfWALy0ZfWsLjUWgGeh/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/xe0s4a21xo/out/v1/1017653482c04bec8e5bfb9847deab05/02c27224-3f1a-414f-aa15-9e15754d7ac5-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd"
       },
-      "drm_key": "1cfe81f9f9945b0d9dd7c9a394f0224a:7671b93cb898cd6de98866fc9f38d38c"
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HJLKT361",
+      "title": "Volleyball 18 Men - PHI vs TPE - Pool D",
+      "synopsis": "Volleyball 18 Men - PHI vs TPE - Pool D",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.acf14a86-39d6-4e37-8d1a-7354291ac1cf/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJLKT361",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      },
+      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     }
   ]
 }
