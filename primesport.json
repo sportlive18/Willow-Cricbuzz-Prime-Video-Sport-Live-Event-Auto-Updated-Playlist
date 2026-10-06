@@ -1,32 +1,15 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "01:02 AM 07-10-2026",
+    "LastUpdate": "05:02 AM 07-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
-    {
-      "match_id": "B0HL4W8YR6",
-      "title": "Switzerland vs. North Macedonia",
-      "synopsis": "Switzerland vs. North Macedonia",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.11bf6913-8102-4c66-92e0-494e6be6bb06/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL4W8YR6",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
-      },
-      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-    },
     {
       "match_id": "B0HJDPTCSV",
       "title": "PPA Tour: Chicago Cup-Round of 64",
@@ -45,6 +28,23 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
+      "match_id": "B0HL4KBV9P",
+      "title": "Princeton vs Hofstra - Men's Soccer",
+      "synopsis": "Princeton vs Hofstra - Men's Soccer",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b6af147a-3c69-416e-805d-499684575286/32/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL4KBV9P",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
+      },
+      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
+    },
+    {
       "match_id": "B0HKC79MRX",
       "title": "Oct 6 - PTT San Diego",
       "synopsis": "Oct 6 - PTT San Diego",
@@ -54,7 +54,7 @@
       "match_url": "https://www.amazon.com/gp/video/detail/B0HKC79MRX",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDTGVHAAAAAAAAMGU2FKFBKHY4RA.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq2PAoBhpqxSmoA2pjbG91ZGZyb250AngoZmlkOjAxYTExMjJhLWJhODQtNzU1MC05MmQ0LTM4ZjM2NmI4MWU0MhkBOKEFoQJ4My9yY28zZHJzZml3L291dC92MS8xNDk4ZjNiMjVkYTU0YmVhODNlYzcwMjQwN2VhMWUwMRkBPIFiVVNYIFxcKUfJJ3tllpppIkBO7a2XH1aAFSOmIZrTihAerbQf/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rco3drsfiw/out/v1/1498f3b25da54bea83ec702407ea1e01/f35b3a0a-72a8-4e3f-88ea-293f4ee978b8-cenc.mpd"
+        "Original Server": "https://a133live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2USFBhpqxX4FA2Zha2FtYWkCeChmaWQ6MDFhMTEzNzQtNDc1NC03MGVhLWJhZGEtOTI2ODZlMTdjN2FjGQE4oQWhAngzL2lubjBmcXc0dTYvb3V0L3YxLzA4Mzc5NjYyYWQxNTQ0YTc4OTQ0MTdiMjdjZTY5ODFkGQE8gWJVU1ggcnyHao9WT2GsOOf2Jvevg6HbhXFhUGqhlmyqooQvU_c/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/inn0fqw4u6/out/v1/08379662ad1544a7894417b27ce6981d/f1ac35c3-3edf-4c47-b7e2-afa89448dd5a-cenc.mpd"
       },
       "drm_key": "e6d3e7267dda5acf78c8869178f855bf:7e2aac7edd70c5b7f20fbcb7350e7e8c"
     },
@@ -68,23 +68,9 @@
       "match_url": "https://www.amazon.com/gp/video/detail/B0HK87XH7B",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a20live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2Zha2FtYWkCeChmaWQ6MDFhMTExNGUtZWEwZC03NjRmLWE4NTktZGVkYTQ5OWIxODhiGQE4oQWhAngzL3JqYnI2c3Zpcnovb3V0L3YxL2QzYjgzY2U2ZDdmMjQ1ZDNiMDI5YmE2NzQ2MzJjM2VkGQE8gWJVU1ggkw_l72uufzaEdY1VH9iFPHozy1mfJSqxPCnqwzqdn-g/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjbr6svirz/out/v1/d3b83ce6d7f245d3b029ba674632c3ed/d6703a05-461a-4afb-9a89-14c9e2918dca-cenc.mpd"
+        "Original Server": "https://ABAT2QGAAAAAAAAML5M7A6JLXLTFV.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq2USGBhpqxX4GA2pjbG91ZGZyb250AngoZmlkOjAxYTExMzc0LTRhNGMtNzZlYS04YTQ1LWU3YzdkMmQ4N2JlNBkBOKEFoQJ4My9yamJyNnN2aXJ6L291dC92MS9kM2I4M2NlNmQ3ZjI0NWQzYjAyOWJhNjc0NjMyYzNlZBkBPIFiVVNYIB4J4ZIFO_A1IjBSztXr_NTMSlMyBhGWX_t-dkXgSoVS/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rjbr6svirz/out/v1/d3b83ce6d7f245d3b029ba674632c3ed/d6703a05-461a-4afb-9a89-14c9e2918dca-cenc.mpd"
       },
       "drm_key": "6f8dd65bf14f7a5a12c23aaf0d241417:38a2ab88496520af9b7559974d7559a8"
-    },
-    {
-      "match_id": "B0HKM9QWSR",
-      "title": "Oct 6 - PTT Boca Raton Men",
-      "synopsis": "Oct 6 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b6574d9-85d2-40fc-a4c8-5e4fa8a357a2/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM9QWSR",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq2LfiBhpqxPFiA2ZmYXN0bHkCeChmaWQ6MDFhMTExNGUtZTgzNy03MGI1LTk3MjEtZGUxZWJhZWExNmZmGQE4oQWhAngzLzUxcWNjYjN4eHEvb3V0L3YxLzY0NmEyOGUxN2I2ODRjZDdhNTNjMWRhZWQzOGI0YWIxWCBaRzBnlODuv5ETB9qLWDfVe8guMEuN1Z-bQqz3eR6u-Q/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/51qccb3xxq/out/v1/646a28e17b684cd7a53c1daed38b4ab1/fdf189cf-626d-48c1-8963-4be8b5d01ce8-cenc.mpd"
-      },
-      "drm_key": "21e6cf71b83b2de5be8cade3ec719787:05041b367680c7bf26c84cbe5790eb68"
     }
   ]
 }
