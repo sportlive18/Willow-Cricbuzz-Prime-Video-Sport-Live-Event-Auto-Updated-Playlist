@@ -1,31 +1,62 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "08:32 PM 08-10-2026",
+    "LastUpdate": "02:32 AM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 3,
+    "LiveCount": 4,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HKR96FFY",
-      "title": "The Morning Drive",
-      "synopsis": "The Morning Drive",
+      "match_id": "B0HK6BQPVG",
+      "title": "PPA Tour Chicago Cup: Round of 16",
+      "synopsis": "PPA Tour Chicago Cup: Round of 16",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f8c091cc-5992-4264-84f0-6a0cedcd0769/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKR96FFY",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c19ab68-2781-4c50-be5a-92264a5e689d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK6BQPVG",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd"
       },
-      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
+      "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
+    },
+    {
+      "match_id": "B0HK3GWML6",
+      "title": "American Championships: Lake Havasu, Second Round",
+      "synopsis": "American Championships: Lake Havasu, Second Round",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd8cc830-d78b-40c4-98a2-df257c684343/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HK3GWML6",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd"
+      },
+      "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+    },
+    {
+      "match_id": "B0HLSG351Q",
+      "title": "Oct 8 - UTR PTT San Diego",
+      "synopsis": "Oct 8 - UTR PTT San Diego",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a19e0268-c13b-4957-a317-216a7b751668/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSG351Q",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a114live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq25MlBhpqx8ylA2Zha2FtYWkCeChmaWQ6MDFhMTFjNzctNjU3Zi03MjE2LWI4ZWUtOGFhNWRhYWQ4ZDlmGQE4oQWhAngzL3FubXhlc2kyZ3Uvb3V0L3YxL2E1Zjg1ODNhMDMyYzRhZWU4M2U1ZWM5YjZlMWYxMWI2WCA2ikzVbzInkywIldDxCCCCv0nByr8nn-TmViSmrFfffg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnmxesi2gu/out/v1/a5f8583a032c4aee83e5ec9b6e1f11b6/28fd326c-e6a0-459b-82b0-21945acc051b-cenc.mpd"
+      },
+      "drm_key": "a0a9721da550f6e94cca31b9a16cef2b:e98c809a7eabc2746876fdd0cf3cabd9"
     },
     {
       "match_id": "B0HL4MMD4N",
@@ -40,20 +71,6 @@
         "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWI-nAWpwcmltZXZpZGVvBBpq21rlBhpqx5RlA2ZmYXN0bHkCeChmaWQ6MDFhMTFiOWItYWNjYS03MGY4LWIxZWMtMjMyOTdiNDY2MGY1GQE4oQWhAngzL2M3M2lrcjVnZjkvb3V0L3YxLzhhYWFiOGVjZTk3NzQ0YTNhN2NjZGU2NmI3ODI5YTMyGQE8gWJVU1ggpte00bMlf09jyoiU8HCPsWK75guvmAiMfoKtYSyRduI/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/c73ikr5gf9/out/v1/8aaab8ece97744a3a7ccde66b7829a32/98c0053f-e684-422a-9ea0-d6046a53ca66-cenc.mpd"
       },
       "drm_key": "264a6030daf8fcd23024f416685e1826:00d6db1d8f8a5fd357ec58cd392185e5"
-    },
-    {
-      "match_id": "B0HL9NC61K",
-      "title": "Oct 8 - PTT Boca Raton Men",
-      "synopsis": "Oct 8 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d964e6f-0fab-4503-9ef3-9ec19d4ea109/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL9NC61K",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a167live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq21rmBhpqx5RmA2Zha2FtYWkCeChmaWQ6MDFhMTFiOWItYjA3ZC03N2I2LWJjNzQtYTg4NmZhYmY1MWZlGQE4oQWhAngzL2lkM2p3Njh0cGYvb3V0L3YxLzg4N2FkMDk3YTE5NzRiYjhiZmUwMDlkZGQ2ODFhYjE1GQE8gWJVU1ggwKEvC2mdIRowWRsZraYyr-5ATPyG1zLW8bu2iA24CRY/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/id3jw68tpf/out/v1/887ad097a1974bb8bfe009ddd681ab15/1ccdd0c7-51b5-4b6d-a5f2-a99f322a9b14-cenc.mpd"
-      },
-      "drm_key": "9056ef485dbc68c3487aceb9249fc365:c15e6f1a0b5a0f71530242dbae17e6f9"
     }
   ]
 }
