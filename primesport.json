@@ -1,37 +1,74 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "12:32 PM 09-10-2026",
+    "LastUpdate": "07:32 PM 09-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HLVVTVRS",
-      "title": "Pertamina Grand Prix of Indonesia, Practice",
-      "synopsis": "Pertamina Grand Prix of Indonesia, Practice",
+      "match_id": "B0HFR7WRDV",
+      "title": "Unknown Match",
+      "synopsis": "Unknown Match",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.24728e8b-ea4a-4d8d-8a10-15657493d437/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVVTVRS",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.345b91c6-a47c-488b-9ab0-8c8aac75b653/2/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HFR7WRDV",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a151live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3AOmBhpqyD0mA2Zha2FtYWkCeChmaWQ6MDFhMTFlMmUtZGU3Zi03MDkyLTliZjAtZjg5NDBkNmYyYzEzGQE4oQWhAngzL2RhcnIyd2NxenQvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmWCCru6acSCH1IRbDFl678mdBK5ffluI0K9lTs0-elB2BiA/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/darr2wcqzt/out/v1/8197c8e055c94a868623653ac55c10bf/a628643c-23ab-4d59-b161-89d414774cff-cenc.mpd?aws.sessionId=91b216ca-07f8-4203-81e3-0c4f36161a18"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd"
       },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+      "drm_key": "e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052"
     },
     {
-      "match_id": "B0HKTZTKFL",
-      "title": "Australia vs. Bangladesh",
-      "synopsis": "Australia vs. Bangladesh",
+      "match_id": "B0HM7GPJCC",
+      "title": "ONE Friday Fights 174",
+      "synopsis": "ONE Friday Fights 174",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.832174c7-259f-48b9-a56d-fd0d5f450a46/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKTZTKFL",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b20b13fa-3883-405f-a9d5-bdd3e3c09301/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HM7GPJCC",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd"
+      },
+      "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+    },
+    {
+      "match_id": "B0HMCLGDRM",
+      "title": "Brazil vs. Italy",
+      "synopsis": "Brazil vs. Italy",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc4c3f8a-f50b-4f1b-8657-cfc53d62caaf/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HMCLGDRM",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
+      },
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HL6P4JYC",
+      "title": "Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match",
+      "synopsis": "Cricket Highlights-WCL 2026: Australia vs South Africa - 11th Match",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a285f1d-a9f7-4945-85c5-67122a2d70e2/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL6P4JYC",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
@@ -42,35 +79,32 @@
       "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
     },
     {
-      "match_id": "B0HLPNB395",
-      "title": "Northland Taniwha v Tasman",
-      "synopsis": "Northland Taniwha v Tasman",
+      "match_id": "B0HLHY861Q",
+      "title": "Oct 9 - PTT Boca Raton Men",
+      "synopsis": "Oct 9 - PTT Boca Raton Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9fd1fe5a-53e8-4d34-87e2-6360a7be307d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLPNB395",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1efa4150-d3e8-4fa8-ac3a-bddc01fa8373/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLHY861Q",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Original Server": "https://a52live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3J5WBhpqyNfWA2Zha2FtYWkCeChmaWQ6MDFhMTIwOGItMWQ3OS03M2YzLWE1YWMtNTYzYjE4NDhlZThiGQE4oQWhAngzL3ZoM3NmZWJocGovb3V0L3YxLzJjMjEyMGY4ZDIxOTQ2OWFiYmIwYmQ3Mjc5MGRmZDdmWCAjM9RTy1bKGcoqd8lYeyOhwkoM31qZVjZ_OLZuov_pOA/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/vh3sfebhpj/out/v1/2c2120f8d219469abbb0bd72790dfd7f/95a6a6c3-c6b1-414c-bb93-87b96d9333a3-cenc.mpd"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "9251228533e9f8cab34963e60e1c1cbd:ed9dd6cbdcc2b9294f396fc215caddba"
     },
     {
-      "match_id": "B0HLSG351Q",
-      "title": "Oct 8 - UTR PTT San Diego",
-      "synopsis": "Oct 8 - UTR PTT San Diego",
+      "match_id": "B0H6S4HLQS",
+      "title": "Oct 9 - PTT Cordoba Men",
+      "synopsis": "Oct 9 - PTT Cordoba Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a19e0268-c13b-4957-a317-216a7b751668/9/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSG351Q",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.25add435-81a0-4d34-9dca-77b6e704456f/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0H6S4HLQS",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a114live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq25MlBhpqx8ylA2Zha2FtYWkCeChmaWQ6MDFhMTFjNzctNjU3Zi03MjE2LWI4ZWUtOGFhNWRhYWQ4ZDlmGQE4oQWhAngzL3FubXhlc2kyZ3Uvb3V0L3YxL2E1Zjg1ODNhMDMyYzRhZWU4M2U1ZWM5YjZlMWYxMWI2WCA2ikzVbzInkywIldDxCCCCv0nByr8nn-TmViSmrFfffg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qnmxesi2gu/out/v1/a5f8583a032c4aee83e5ec9b6e1f11b6/28fd326c-e6a0-459b-82b0-21945acc051b-cenc.mpd"
+        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3KxlBhpqyOXlA2ZmYXN0bHkCeChmaWQ6MDFhMTIwYzItMGExNC03NmNmLTg0NWQtMzIxNmFiOGE0Yjg0GQE4oQWhAngzL2dzMWltcW82OWcvb3V0L3YxLzA3NzJjZTJlNjhhMTQ5Njg5NGFiYTY2ZDE3YTA5N2QzWCDU8pSg9tmFsiVQwXkfmbBH-plj4xdBznVI83bnlUXPfA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gs1imqo69g/out/v1/0772ce2e68a1496894aba66d17a097d3/dbd4318a-df9d-4b3c-b6b5-2c0fcc73454e-cenc.mpd"
       },
-      "drm_key": "a0a9721da550f6e94cca31b9a16cef2b:e98c809a7eabc2746876fdd0cf3cabd9"
+      "drm_key": "926bd446c97210d2730698758df707c8:5a43b7977c5e322f3bd59666229fd0f7"
     }
   ]
 }
