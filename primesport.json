@@ -1,15 +1,63 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "04:02 AM 16-10-2026",
+    "LastUpdate": "06:02 AM 16-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 4,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
+    {
+      "match_id": "B0HC4KGW8L",
+      "title": "Unknown Match",
+      "synopsis": "Unknown Match",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb2dcc85-b2af-4a09-8fea-956c437673e0/4/CAROUSEL-BACKGROUND-8X3/en-US/3840x1440._UR3840,1440_SX2160_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HC4KGW8L",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a114live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5SkOBhpq0WKOA2Zha2FtYWkCeChmaWQ6MDFhMTQxZTgtZmMyYi03Nzg3LTgyODYtNDY3NWY3YjllOWFlGQE4oQWhAngzL3NxeGx5d2RkcXYvb3V0L3YxL2YwMjcxNjQ3ODYyYjQ5ZjM4YmRkMjUyNTgzYTgyYTZmWCCwMcGZucNfktUn0ofkC6RGq88yEC-86UZ3H6NOURlWGw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sqxlywddqv/out/v1/f0271647862b49f38bdd252583a82a6f/7713fdf9-e3c5-4545-b23d-afc7b2ea40a1-cenc.mpd"
+      },
+      "drm_key": "ba90fb46fd87ce7dffc899445711637f:0042223737595d060a2663a547f12d8f"
+    },
+    {
+      "match_id": "B0HKTNMMLW",
+      "title": "Washington State at Boise State",
+      "synopsis": "Washington State at Boise State",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e563066-bfac-4eac-a43b-0b776b5b9c92/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKTNMMLW",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
+      },
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
+    },
+    {
+      "match_id": "B0HL67YQS9",
+      "title": "QMJHL Hockey: Newfoundland Regiment vs Baie-Comeau Drakkar",
+      "synopsis": "QMJHL Hockey: Newfoundland Regiment vs Baie-Comeau Drakkar",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9c467b29-8c1f-432b-ad33-c532bf7f910f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HL67YQS9",
+      "is_free": false,
+      "stream_url": {
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd"
+      },
+      "drm_key": "b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9"
+    },
     {
       "match_id": "B0H94RC4Y4",
       "title": "PPA Tour: Virginia Beach Open-Round of 16",
@@ -28,20 +76,6 @@
       "drm_key": "2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72"
     },
     {
-      "match_id": "B0HM75NJVD",
-      "title": "Oct 15 - UTR PTT Norman Men",
-      "synopsis": "Oct 15 - UTR PTT Norman Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58e7e959-4f96-405e-9694-116b40d90792/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HM75NJVD",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a68live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq5OK_Bhpq0Rw_A2Zha2FtYWkCeChmaWQ6MDFhMTQwZDYtNTYyMy03NGQ5LWFmNGEtZmVlYmViZTVhZWE1GQE4oQWhAngzL2xoenRta3hpYWYvb3V0L3YxL2M4NjZhYmE1YzVmZjQ0ODU4OTJmZDU1ZjNmNTg3ZTE3WCAPfj0LIU_mZPgHoao4TCe_DVCgzbuq5iLZxQk3oY9BlA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/lhztmkxiaf/out/v1/c866aba5c5ff4485892fd55f3f587e17/9f2c55e9-dc50-456a-bb63-207e972672e4-cenc.mpd"
-      },
-      "drm_key": "3bd2ff3cc69b474a92e4fc11f57d3d8e:e0aef508cc5168519192faa53b7db079"
-    },
-    {
       "match_id": "B0HLWNMQ8Y",
       "title": "Oct 15 - UTR PTT Newport Beach",
       "synopsis": "Oct 15 - UTR PTT Newport Beach",
@@ -54,20 +88,6 @@
         "Original Server": "https://a88live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WI-nAWpwcmltZXZpZGVvBBpq5Nu8Bhpq0RU8A2Zha2FtYWkCeChmaWQ6MDFhMTQwYmEtZjJkOS03Mjg3LWE4YmMtY2Y5MzAwZjExNGI3GQE4oQWhAngzL3kwcGZiZzVxNjMvb3V0L3YxLzQ1MzdlNGI2ZWQ1YzQwNmM4OWE4YTRhMDE3NTY5OWM1GQE8gWJVU1ggGOGzmhdtNnYtrIz-j-oDgm9dYNZZPOqZXXTG4Lo_Adw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/y0pfbg5q63/out/v1/4537e4b6ed5c406c89a8a4a0175699c5/7809ec9a-6c0c-4eb4-add3-5236c2483a79-cenc.mpd"
       },
       "drm_key": "8ae193e649334fc5deed4133290d09e3:53db7e9ab048c5806cde41637a1fbfd7"
-    },
-    {
-      "match_id": "B0HL2YFCQ1",
-      "title": "Oct 15 - UTR PTT Concord Men",
-      "synopsis": "Oct 15 - UTR PTT Concord Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.89d939b1-38a5-4fd4-9f40-303878321d88/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HL2YFCQ1",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIOJPAAAAAAAAMNFQROQKVP6H7M.ta.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJOnAWpwcmltZXZpZGVvBBpq5IdQBhpq0MDQA2pjbG91ZGZyb250AngoZmlkOjAxYTEzZjcxLTJkNGEtNzVkZi04YjhkLWYxNzRmZWIyYzE5MRkBOKEFoQJ4My9odmVnZWxsaXo2L291dC92MS8xYTFhYzEzZjQxNWE0MzlkODRlMzY2N2EyOThmODUxORkBPIFiVVNYIFJsHCQ_UfD41C6MGqH8XvYg1mSm-czZSMA-A0WTeKdq/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hvegelliz6/out/v1/1a1ac13f415a439d84e3667a298f8519/57aa32d3-1914-4e35-944b-9555002e3c4c-cenc.mpd"
-      },
-      "drm_key": "938ec0a58d620acce823dfb199ce8fc1:dc7a29ef483dfcd35804a49ae70b67b9"
     }
   ]
 }
