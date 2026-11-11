@@ -1,118 +1,31 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "05:32 AM 11-11-2026",
+    "LastUpdate": "11:32 AM 11-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 7,
+    "LiveCount": 1,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HN5KK4XN",
-      "title": "WPT Venetian Fall Championship Final Table",
-      "synopsis": "WPT Venetian Fall Championship Final Table",
+      "match_id": "B0HLVY22CY",
+      "title": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
+      "synopsis": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.deef81c5-05d9-4022-b1cc-3648f37c243d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HN5KK4XN",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLVY22CY",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://ABDTF4AAAAAAAAAMJX6U2XZHRJH7X.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBz7dBhpq83hdA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNzBlLTJkZTUtNzI1NC1iYWE2LTg4MWM0YjhiNmY3YRkBOKEFoQJ4My9jYzNycHNxcXRrL291dC92MS9jNjZmMjM0NzE1NDE0MzQ0YTA1MmNmMjlmMzkwMTZjZFgg8FbQn9a0S2PF8qPdnnVayKbCnvybKuDfwptvYDPwHkI/CMH/f6038b88aa69447da4a3e793b671fb13/v1/dash/791992545818/imdb_amagi_amzn1_dv_live_csid_6336badc-8cb2-43b0-8106-8e7dfe05ae41_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/cc3rpsqqtk/out/v1/c66f234715414344a052cf29f39016cd/de126b07-78e0-4661-890c-075278c8af6f-cenc.mpd?aws.sessionId=7c57ed8e-f10f-458e-a46a-39c91212ff26"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd"
       },
-      "drm_key": "72c30ce1b2f3afcb4bda73d25866c54f:d67e3b3dbe99e6693a56295e54d313e0"
-    },
-    {
-      "match_id": "B0H6K72GJ9",
-      "title": "Gardner-Webb vs Elon - Women's Volleyball",
-      "synopsis": "Gardner-Webb vs Elon - Women's Volleyball",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1096a62a-e8d3-4c0a-b377-89fb2af671db/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0H6K72GJ9",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd"
-      },
-      "drm_key": "7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc"
-    },
-    {
-      "match_id": "B0HQFV89K1",
-      "title": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "synopsis": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQFV89K1",
-      "is_free": false,
-      "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd"
-      },
-      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
-    },
-    {
-      "match_id": "B0HPBXG43H",
-      "title": "Nov 10 - PTT Malibu Men",
-      "synopsis": "Nov 10 - PTT Malibu Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03901bb3-9762-4d06-aa44-f4f81c53e150/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPBXG43H",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a182live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprB0zmBhpq84ZmA2Zha2FtYWkCeChmaWQ6MDFhMWM3NDUtMDEzZS03NDA2LWE5ZGMtNzk2OTdjYTk0ZDgwGQE4oQWhAngzL3l0dnVxY3A1OGMvb3V0L3YxLzQ5NDU5ZTlhMzJkOTQzZGNhMjRlNTVjMmZmNDNkN2UzWCB1m1yaOr1C2Chh1dtGkogV78ztX3YcaM5_WPpDq0g5lg/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ytvuqcp58c/out/v1/49459e9a32d943dca24e55c2ff43d7e3/f28c571c-a003-4ba6-b760-e79b1506194e-cenc.mpd"
-      },
-      "drm_key": "a092534afbadca8220eb3ca93a8a5462:3cf352bbdfdb42b44ff4306a3d548dad"
-    },
-    {
-      "match_id": "B0HJYLB1FQ",
-      "title": "Nov 10 - PTT Houston Men",
-      "synopsis": "Nov 10 - PTT Houston Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a6d2f7b-b060-4388-953f-18a88f43e827/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HJYLB1FQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://live-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprBzDIBhpq82pIA2ZmYXN0bHkCeChmaWQ6MDFhMWM2ZDctMjlkMS03NGMxLTk2MjctMWFkZTQyOTZhNTA0GQE4oQWhAngzLzdreXlsZHRmZHYvb3V0L3YxLzdmNTI2MjJjMzI5MDRhY2E4MjQ3YTcxZGJjMGU3YjFhWCAf4ePoS5OHBYhRdTah-UXLhSv24ZH2D_qmTYRy-5xMLw/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7kyyldtfdv/out/v1/7f52622c32904aca8247a71dbc0e7b1a/9f069096-7a9d-414c-87e5-9400d9493e63-cenc.mpd"
-      },
-      "drm_key": "08daaa47bb768b9e92a61a7e836db44c:475ef938ebbcb203db30ae32090c514b"
-    },
-    {
-      "match_id": "B0HP3Z72FN",
-      "title": "Nov 10 - PTT Oxford",
-      "synopsis": "Nov 10 - PTT Oxford",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7a885a9a-3c7f-47e3-8ab3-90203c2a3c83/3/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HP3Z72FN",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a162live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprBxSqBhpq804qA2Zha2FtYWkCeChmaWQ6MDFhMWM2NjktNTU4Zi03MjI3LWIxMmItYzhmMjI0MmY2ODJhGQE4oQWhAngzLzVxYTN3cXF1dWcvb3V0L3YxL2U5MDgxM2YxYWExNjRhNWRiMTVlYzY0YTE0MjU5ZmY4WCCOpr6CI1BpMlaxbZOAT3lv66J8m4QeRLFHI0fzNb91pg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/5qa3wqquug/out/v1/e90813f1aa164a5db15ec64a14259ff8/47c1fef6-3d6b-48e2-99bd-d49e4bdf6a69-cenc.mpd"
-      },
-      "drm_key": "00a93c635b67f55021bcc80993deb331:fa01833de57c57529d98cc1e0ddfb868"
-    },
-    {
-      "match_id": "B0HFGVT8MB",
-      "title": "Nov 10 - PTT Boca Raton Men",
-      "synopsis": "Nov 10 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5030fc56-86ab-42e3-8827-00dc06bf0d19/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HFGVT8MB",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://ABBIA2VAAAAAAAAME4QJE63SWYCI6.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBviLBhpq8zILA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNWZiLTdiMGItNzM5MS05MzhjLTFlMzAwYjJlYjM4ZBkBOKEFoQJ4My94dGloaXR3amJ5L291dC92MS85ZTdkNmY4YzBiNDU0ZWE0YjM0MGNjNDE0OTJjNTUwMFgg7KZJ4sRCfAmie4xx5aiCdzooqlu0mQTPuxw-MVK3Kss/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xtihitwjby/out/v1/9e7d6f8c0b454ea4b340cc41492c5500/4553ea7f-b2b4-42a6-a3a5-a6c6dd09611e-cenc.mpd"
-      },
-      "drm_key": "c36aedf6eb3404a656e932199f72e986:e854525d842c62e0f0b863b9d5d8d3b7"
+      "drm_key": "d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3"
     }
   ]
 }
