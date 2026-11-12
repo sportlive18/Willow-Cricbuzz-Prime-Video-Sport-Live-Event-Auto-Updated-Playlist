@@ -1,23 +1,23 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "11:32 PM 12-11-2026",
+    "LastUpdate": "04:32 AM 13-11-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 6,
+    "LiveCount": 5,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HPP3VBT8",
-      "title": "Orleans 2026 - Early Rounds - 7",
-      "synopsis": "Orleans 2026 - Early Rounds - 7",
+      "match_id": "B0HP69HR8B",
+      "title": "Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds",
+      "synopsis": "Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.22bcaf15-b559-4039-91e5-699d825da84d/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HPP3VBT8",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.64701d4e-6e16-4f88-b7aa-aed1ad262770/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HP69HR8B",
       "is_free": false,
       "stream_url": {
         "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
@@ -28,35 +28,18 @@
       "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
     },
     {
-      "match_id": "B0HQ6ZJ6TX",
-      "title": "Triton Poker ONE Series Cyprus-$8K Main Event",
-      "synopsis": "Triton Poker ONE Series Cyprus-$8K Main Event",
+      "match_id": "B0HNXP6C7R",
+      "title": "Nov 12 - PTT Malibu Men",
+      "synopsis": "Nov 12 - PTT Malibu Men",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ6ZJ6TX",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e785e915-6b8f-4199-aace-7df1708d1805/7/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HNXP6C7R",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd"
+        "Original Server": "https://a43live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCdPGBhpq9g1GA2Zha2FtYWkCeChmaWQ6MDFhMWQxMjMtZGIwMS03NzUyLTk4MWQtN2JlOTNkMTE5MjQyGQE4oQWhAngzL2RicGVrbmtnbHMvb3V0L3YxL2UxMmIwOTQyMTM3NjQ3MDRhYTFiZDJmMzBmYzcwZjgwWCBfKYnuk8ahuqH3gIJdlyUgZGZC7egGFWIQs7MeqZeTgg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dbpeknkgls/out/v1/e12b094213764704aa1bd2f30fc70f80/76998ff5-be25-4a1a-bfcd-353b6acd13aa-cenc.mpd"
       },
-      "drm_key": "0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd"
-    },
-    {
-      "match_id": "B0HQ7PJKTQ",
-      "title": "Nov 12 - PTT Boca Raton Men",
-      "synopsis": "Nov 12 - PTT Boca Raton Men",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
-      },
-      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
+      "drm_key": "00f327d1aeb3fbd5b05abcec9b44797f:18725e6ab0250a1af1e378fee7ffd62e"
     },
     {
       "match_id": "B0HNGDTCCT",
@@ -73,6 +56,20 @@
       "drm_key": "a129253aade225fbedf397341a47eff7:07978d93769d514d2c749da47957ea06"
     },
     {
+      "match_id": "B0HQ7PJKTQ",
+      "title": "Nov 12 - PTT Boca Raton Men",
+      "synopsis": "Nov 12 - PTT Boca Raton Men",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.999c6fcd-9fe3-40a4-a740-cf9ee44c32cf/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HQ7PJKTQ",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a103live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCZuQBhpq9dUQA2Zha2FtYWkCeChmaWQ6MDFhMWQwNDgtNDZkMi03NjQ5LThhY2MtZjIxZGI2ZDkwYjQ1GQE4oQWhAngzL2EzbmJwZnFrdXUvb3V0L3YxLzJhZDYwNDZiYzE1NjQ5YTdiZmZmNjYxZWI4OTFmNTFiWCCVH0r_wEzEuA9U1TJbYDl1046kwLTs0cVbvv7-z3IVkA/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a3nbpfqkuu/out/v1/2ad6046bc15649a7bfff661eb891f51b/3a255574-9385-469e-b05f-cca9c3011ad2-cenc.mpd"
+      },
+      "drm_key": "8b3166be38371fcff282e9eef2d6ba91:1975f925f7c0d7857ea007a66289f238"
+    },
+    {
       "match_id": "B0HPM9D7LC",
       "title": "Nov 12 - PTT Oxford",
       "synopsis": "Nov 12 - PTT Oxford",
@@ -85,20 +82,6 @@
         "Original Server": "https://ABBID6OAAAAAAAAMGC3HOPXB64BP2.ta-enf.bia-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprCbenBhpq9fEnA2pjbG91ZGZyb250AngoZmlkOjAxYTFkMGI2LTAxOTMtNzE4ZS05MGRjLTYyMWE5MzIwYTMwNxkBOKEFoQJ4My9qZ3R4bmJrOW54L291dC92MS85ZjY1NThlYmY2ZmU0OTNiYjNiYmI5NmNjZGNkODM5Y1ggh8uO6qF-iGwJK4rwny6vs45lpugxVhZOfkO5VmEenIw/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/jgtxnbk9nx/out/v1/9f6558ebf6fe493bb3bbb96ccdcd839c/04b8940d-89e2-4358-90cd-a34acb7272cf-cenc.mpd"
       },
       "drm_key": "28499a96d5423b6bd1033555cd00925f:bc564723b39705f73263accc9606e056"
-    },
-    {
-      "match_id": "B0HQF382YX",
-      "title": "Nov 12 - PTT Carvoeiro",
-      "synopsis": "Nov 12 - PTT Carvoeiro",
-      "status": "LIVE",
-      "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58b12c60-9027-4853-a317-9fa30fe4b25f/10/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HQF382YX",
-      "is_free": false,
-      "stream_url": {
-        "Original Server": "https://a26live-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprCUcmBhpq9YCmA2Zha2FtYWkCeChmaWQ6MDFhMWNlZmUtOGEyNS03NzAzLWE1NTktYmNkZmIwY2VjYThlGQE4oQWhAngzL3hmaXVxc2VtbHkvb3V0L3YxLzE3NTcyYzViZmExMTRlODJhM2JkZGU4MzE3NjdkMDU3WCBOqqv4WLWit2AvWymWTDVe89DOI-8eFSs3mI6-LlopBg/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xfiuqsemly/out/v1/17572c5bfa114e82a3bdde831767d057/cc64a4a4-7f18-49ce-b9f9-bb0481ccc9d6-cenc.mpd"
-      },
-      "drm_key": "eeb4c0614583476e261958329c39065c:2b77e8a1815c7f4180b54f0a19ff495d"
     }
   ]
 }
